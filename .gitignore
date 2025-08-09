@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# Reports and Data
+reports/output/
+data/results/raw/
+data/results/processed/
+
+# Logs
+*.log
+logs/
+
+# JMeter
+jmeter.log
