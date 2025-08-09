@@ -50,6 +50,3 @@ See `config/` directory for configuration options:
 - `settings.py` - Python configuration
 - `jmeter.properties` - JMeter settings
 - `ollama.yaml` - Ollama model configuration
-
-## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
