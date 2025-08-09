@@ -2,6 +2,7 @@
 
 ## Overview
 This framework provides comprehensive performance testing and monitoring for GenAI APIs, specifically focused on Ollama implementation.
+<img width="591" height="265" alt="image" src="https://github.com/user-attachments/assets/3a44b553-a49d-4e5f-bce0-6d80bd5023a3" />
 
 ## Features
 - Real-time performance monitoring
