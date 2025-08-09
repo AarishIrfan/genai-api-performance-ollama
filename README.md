@@ -38,14 +38,9 @@ Our latest performance test shows:
    python scripts/run_tests.py
    ```
 
-4. View reports:
-   - Grafana: http://localhost:3000
-   - Prometheus: http://localhost:9090
-
 ## Project Structure
 - `/src` - Core implementation
 - `/tests` - Test suites
-- `/monitoring` - Prometheus and Grafana setup
 - `/reports` - Performance reports
 - `/jmeter` - JMeter test plans
 - `/backend` - Node.js API server
