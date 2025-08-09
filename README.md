@@ -2,7 +2,17 @@
 
 ## Overview
 This framework provides comprehensive performance testing and monitoring for GenAI APIs, specifically focused on Ollama implementation.
-<img width="591" height="265" alt="image" src="https://github.com/user-attachments/assets/3a44b553-a49d-4e5f-bce0-6d80bd5023a3" />
+
+## Performance Test Results
+![Performance Test Results](images/performance-test-results.png)
+
+Our latest performance test shows:
+- **Total Requests:** 25
+- **Successful:** 4 
+- **Failed:** 21
+- **Average Response Time:** 72.934s
+- **Requests/Second:** 0.0
+
 
 ## Features
 - Real-time performance monitoring
